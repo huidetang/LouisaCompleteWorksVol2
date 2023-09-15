@@ -1,12 +1,23 @@
 PREDEF:
-  - preface.re
+  - dedication.re
 
 CHAPS:
-  - test.re
+  - 小説作品:
+    - saigo-no-maru.re
+    - seiya.re
+    - kibou.re
+    - fukkatsu.re
+    - yuki-no-seida.re
+    - wii-sama.re
+    - kabe.re
+    - rusk.re
+    - yamai.re
+    - wakimichi.re
+  - 「きっとあなたの１４０字」作品集:
+    - 140chars.re
 
 APPENDIX:
 
 POSTDEF:
   - postscript.re
-  - bib.re
 
