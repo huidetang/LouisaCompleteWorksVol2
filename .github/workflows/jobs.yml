@@ -91,8 +91,8 @@ jobs:
       - name: Upload artifact.
         uses: actions/upload-artifact@v3
         with:
-          name: louisa-works-2023-2−print.pdf
-          path: louisa-works-2023-2−print.pdf
+          name: louisa-works-2023-2-print.pdf
+          path: louisa-works-2023-2-print.pdf
   pdf-ebook:
     # needs: reviewdog-github-check
     name: Make PDF for Ebook
@@ -121,8 +121,8 @@ jobs:
       - name: Upload artifact.
         uses: actions/upload-artifact@v3
         with:
-          name: louisa-works-2023-2−ebook.pdf
-          path: louisa-works-2023-2−ebook.pdf
+          name: louisa-works-2023-2-ebook.pdf
+          path: louisa-works-2023-2-ebook.pdf
   epub:
     # needs: reviewdog-github-check
     name: Make EPUB
@@ -147,5 +147,5 @@ jobs:
       - name: Upload artifact.
         uses: actions/upload-artifact@v3
         with:
-          name: louisa-works-2023-2−epub.epub
-          path: louisa-works-2023-2−epub.epub
+          name: louisa-works-2023-2-epub.epub
+          path: louisa-works-2023-2-epub.epub
