@@ -2,16 +2,13 @@ PREDEF:
   - dedication.re
 
 CHAPS:
-  - 小説作品:
-    - bouquet.re
-    - kuruna.re
-    - outoh-ki.re
-    - kawaii.re
-    - hokkai.re
-    - natsu-no-enishi.re
-    - yurodivy.re
-  - 「きっとあなたの１４０字」作品集:
-    - 140chars.re
+  - bouquet.re
+  - kuruna.re
+  - outoh-ki.re
+  - kawaii.re
+  - hokkai.re
+  - natsu-no-enishi.re
+  - yurodivy.re
 
 APPENDIX:
 
