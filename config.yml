@@ -22,7 +22,7 @@ language: ja
 
 # 書名
 # 読みを入れる例 booktitle: {name: "Re:VIEW EPUBサンプル", file-as: "リビューイーパブサンプル"}
-booktitle: "VR小説作品集"
+booktitle: "並行現実小説作品集"
 subtitle: "第2巻 2023年"
 
 # 著者名。「, 」で区切って複数指定できる
